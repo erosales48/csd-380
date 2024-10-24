@@ -1,2 +1,6 @@
-# csd-380
-Bellevue University DevOps Class
+# CSD-380 DevOps
+
+## Contributors
+
+- Adam Bailey, Professor
+- Edgar Rosales, Student
